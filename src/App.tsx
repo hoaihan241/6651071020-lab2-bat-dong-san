@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router-dom'
-import Header from './components/Header'
-import ListPage from './pages/ListPage'
-import DetailPage from './pages/DetailPage'
+import Header from './components/Header.tsx'
+import ListPage from './pages/ListPage.tsx'
+import DetailPage from './pages/DetailPage.tsx'
 
 export default function App() {
   return (
